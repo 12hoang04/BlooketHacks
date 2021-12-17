@@ -1,3 +1,4 @@
+alert("Made by 12hoang04")
 const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
 (async (args) => {
     let [box, amount] = args
