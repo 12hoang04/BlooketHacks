@@ -1,3 +1,4 @@
+All cheats all in these page too: https://schoolcheats.net/blooket/
 # addTokens.js
 
 note: **This cheat also includes adding max xp for the day**
